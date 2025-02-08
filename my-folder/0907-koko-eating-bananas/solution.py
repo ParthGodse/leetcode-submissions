@@ -9,7 +9,7 @@ class Solution:
                 total += math.ceil(float(pile) / mid)
 
             if total <= h:
-                result = mid
+                result = min(result, mid)
                 r = mid - 1
             else:
                 l = mid + 1
