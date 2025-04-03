@@ -37,9 +37,5 @@ class Solution:
             for c in range(cols):
                 if board[r][c] == "O":
                     board[r][c] = "X"
-
-        for r in range(rows):
-            for c in range(cols):
-                if board[r][c] == "S":
+                elif board[r][c] == "S":
                     board[r][c] = "O"
-
