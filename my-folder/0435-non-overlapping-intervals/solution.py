@@ -5,9 +5,8 @@ class Solution:
 
         prevend = intervals[0][1]
 
-        # for i in range(1, len(intervals)):
-        #     start, end = intervals[i]
-        for start, end in intervals[1:]: 
+        for i in range(1, len(intervals)):
+            start, end = intervals[i] 
             if start >= prevend:
                 prevend = end
             else:
