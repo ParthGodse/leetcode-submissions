@@ -24,19 +24,20 @@ class Solution:
         #         stack.append((node.left, lower, node.val))
 
         # return True
-        
+        stack = [(root, float('-inf'), float('inf'))]
+
         if not root:
             return True
 
-        q = deque([(root, float("-inf"), float("inf"))])
+        while stack:
+            node, lower, upper = stack.pop()
 
-        while q:
-            node, left, right = q.popleft()
-            if not (left < node.val < right):
+            if node.val <= lower or node.val >= upper:
                 return False
-            if node.left:
-                q.append((node.left, left, node.val))
+
             if node.right:
-                q.append((node.right, node.val, right))
+                stack.append((node.right, node.val, upper))
+            if node.left:
+                stack.append((node.left, lower, node.val))
 
         return True
