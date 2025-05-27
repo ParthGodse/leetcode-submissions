@@ -7,12 +7,21 @@ class Solution:
         #         if profit > maxprofit:
         #             maxprofit = profit
         # return maxprofit  
-        maxprofit = 0
-        minprice = float('inf')
+        # maxprofit = 0
+        # minprice = float('inf')
+        # for price in prices:
+        #     if price<minprice:
+        #         minprice = price
+        #     curr_profit = price - minprice
+        #     if curr_profit > maxprofit:
+        #         maxprofit = curr_profit
+        # return maxprofit
+        maxx= curr_profit = 0
+        minn = float('inf')
         for price in prices:
-            if price<minprice:
-                minprice = price
-            curr_profit = price - minprice
-            if curr_profit > maxprofit:
-                maxprofit = curr_profit
-        return maxprofit
+            if price < minn:
+                minn = price
+            curr_profit = price - minn
+            if curr_profit > maxx:
+                maxx = curr_profit
+        return maxx
