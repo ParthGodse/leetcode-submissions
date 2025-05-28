@@ -2,8 +2,6 @@ class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         def low():    
             l, r = 0, len(nums) - 1
-            res = []
-            ind = []
             while l <= r:
                 mid = (l + r) // 2
 
