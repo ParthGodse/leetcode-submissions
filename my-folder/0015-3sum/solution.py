@@ -1,37 +1,50 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        # n = len(nums)
-        # results=[]
-        # for i in range(n - 2 ):
-        #     for j in range(i+1, n - 1):
-        #         for m in range(j+1, n):
-        #             if nums[i]+nums[j]+nums[m]==0:
-        #                 triplet = [nums[i],nums[j],nums[m]]
-        #                 triplet.sort()
-        #                 if triplet not in results:
-        #                     results.append(triplet)
-        # return results
+        # res = []
+        # nums.sort()
+
+        # for i, a in enumerate(nums):
+        #     if a > 0:
+        #         break
+
+        #     if i > 0 and a == nums[i - 1]:
+        #         continue
+
+        #     l, r = i + 1, len(nums) - 1
+        #     while l < r:
+        #         three = a + nums[l] + nums[r]
+        #         if three > 0:
+        #             r -= 1
+        #         elif three < 0:
+        #             l += 1
+        #         else:
+        #             res.append([a, nums[l], nums[r]])
+        #             l += 1
+        #             r -= 1
+        #             while nums[l] == nums[l - 1] and l < r:
+        #                 l += 1
+        # return res
         res = []
         nums.sort()
 
-        for i, a in enumerate(nums):
-            if a > 0:
-                break
-
-            if i > 0 and a == nums[i - 1]:
+        for i in range(len(nums)):
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
-            l, r = i + 1, len(nums) - 1
-            while l < r:
-                three = a + nums[l] + nums[r]
-                if three > 0:
-                    r -= 1
-                elif three < 0:
-                    l += 1
+            j = i + 1
+            k = len(nums) - 1
+
+            while j < k:
+                total = nums[i] + nums[j] + nums[k]
+
+                if total > 0:
+                    k -= 1
+                elif total < 0:
+                    j += 1
                 else:
-                    res.append([a, nums[l], nums[r]])
-                    l += 1
-                    r -= 1
-                    while nums[l] == nums[l - 1] and l < r:
-                        l += 1
+                    res.append([nums[i], nums[j], nums[k]])
+                    j += 1
+
+                    while nums[j] == nums[j - 1] and j < k:
+                        j += 1
         return res
