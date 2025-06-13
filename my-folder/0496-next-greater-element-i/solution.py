@@ -4,16 +4,16 @@ class Solution:
         stack = []
         mapping = {}
         
-        for n in nums2:
-            while stack and n > stack[-1]:
-                mapping[stack.pop()] = n
-            stack.append(n)
+        for num in nums2:
+            while stack and num > stack[-1]:
+                mapping[stack.pop()] = num
+            stack.append(num)
             
         while stack:
             mapping[stack.pop()] = -1
             
-        for n in nums1:
-            res.append(mapping[n])
+        for num in nums1:
+            res.append(mapping[num])
 
         return res
 
