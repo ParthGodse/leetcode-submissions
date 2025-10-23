@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Binary Search
 |  |
@@ -18,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Math
 |  |
@@ -30,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
@@ -51,4 +55,12 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
