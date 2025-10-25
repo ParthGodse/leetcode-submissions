@@ -44,6 +44,7 @@
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
