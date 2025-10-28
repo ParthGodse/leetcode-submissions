@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
@@ -21,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Binary Search
