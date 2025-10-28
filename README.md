@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
@@ -17,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
