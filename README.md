@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
