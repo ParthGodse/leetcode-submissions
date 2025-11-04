@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -27,12 +28,14 @@
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
+| [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -146,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
