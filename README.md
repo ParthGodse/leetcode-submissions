@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
@@ -123,6 +124,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 ## Segment Tree
 |  |
@@ -141,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
