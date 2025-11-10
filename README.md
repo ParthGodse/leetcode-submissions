@@ -17,6 +17,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
