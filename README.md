@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
