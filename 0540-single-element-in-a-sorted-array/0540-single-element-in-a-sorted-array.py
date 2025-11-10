@@ -6,10 +6,11 @@ class Solution:
         while l < r:
             mid = (l + r) // 2
 
-            if mid % 2 == 0 and nums[mid] == nums[mid + 1]:
-                l = mid + 1
-            elif mid % 2 == 1 and nums[mid] == nums[mid - 1]:
-                l = mid + 1
+            if mid % 2 == 1:
+                mid -= 1
+
+            if nums[mid] == nums[mid + 1]:
+                l = mid + 2
             else:
                 r = mid
         return nums[l]
