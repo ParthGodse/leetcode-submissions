@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
@@ -175,6 +177,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Monotonic Stack
 |  |
 | ------- |
