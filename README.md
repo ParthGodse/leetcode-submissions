@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ParthGodse/leetcode-submissions/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -150,6 +151,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 ## Linked List
 |  |
