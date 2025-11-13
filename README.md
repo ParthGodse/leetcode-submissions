@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ParthGodse/leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ParthGodse/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
