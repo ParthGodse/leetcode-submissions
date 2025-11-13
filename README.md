@@ -39,6 +39,7 @@
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ParthGodse/leetcode-submissions/tree/master/0198-house-robber) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Binary Search
@@ -85,6 +86,7 @@
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Tree
@@ -199,6 +201,7 @@
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
