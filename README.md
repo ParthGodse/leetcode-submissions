@@ -76,6 +76,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ParthGodse/leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParthGodse/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Monotonic Stack
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
