@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -83,6 +84,7 @@
 | [0006-zigzag-conversion](https://github.com/ParthGodse/leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ParthGodse/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -227,5 +229,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
