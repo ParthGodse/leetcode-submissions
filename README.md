@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ParthGodse/leetcode-submissions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
@@ -164,6 +166,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 ## Linked List
@@ -221,4 +224,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
