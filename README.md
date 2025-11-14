@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/ParthGodse/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
@@ -61,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ParthGodse/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ParthGodse/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 ## Randomized
 |  |
