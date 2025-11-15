@@ -27,6 +27,7 @@
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
@@ -200,6 +202,7 @@
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
