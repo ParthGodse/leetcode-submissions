@@ -122,6 +122,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ParthGodse/leetcode-submissions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
@@ -162,6 +163,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ParthGodse/leetcode-submissions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ParthGodse/leetcode-submissions/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Recursion
