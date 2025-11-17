@@ -199,6 +199,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ParthGodse/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ParthGodse/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
@@ -236,6 +237,7 @@
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ParthGodse/leetcode-submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
