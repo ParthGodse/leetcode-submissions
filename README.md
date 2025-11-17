@@ -174,6 +174,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParthGodse/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ParthGodse/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 ## Segment Tree
 |  |
@@ -196,6 +197,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthGodse/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParthGodse/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ParthGodse/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
