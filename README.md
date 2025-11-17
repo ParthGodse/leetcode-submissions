@@ -71,6 +71,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ParthGodse/leetcode-submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -124,6 +125,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ParthGodse/leetcode-submissions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -201,6 +203,7 @@
 | [0061-rotate-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -266,4 +269,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
