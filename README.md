@@ -113,14 +113,17 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -135,6 +138,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
