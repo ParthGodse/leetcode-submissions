@@ -114,6 +114,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -125,6 +126,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -154,6 +156,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -304,6 +307,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
