@@ -120,6 +120,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Trie
 |  |
 | ------- |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
