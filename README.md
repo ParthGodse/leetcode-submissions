@@ -15,6 +15,7 @@
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
@@ -110,6 +111,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ParthGodse/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ParthGodse/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
@@ -135,6 +137,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -197,6 +200,7 @@
 | [0022-generate-parentheses](https://github.com/ParthGodse/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ParthGodse/leetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ParthGodse/leetcode-submissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
@@ -205,6 +209,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ParthGodse/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 ## Randomized
 |  |
