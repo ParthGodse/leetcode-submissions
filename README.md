@@ -260,18 +260,21 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ParthGodse/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ParthGodse/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -299,6 +302,7 @@
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ParthGodse/leetcode-submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
@@ -345,4 +349,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ParthGodse/leetcode-submissions/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
