@@ -31,6 +31,7 @@
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,6 +136,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
@@ -214,6 +216,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 ## Randomized
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
+| [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
