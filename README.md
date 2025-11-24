@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ParthGodse/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0031-next-permutation) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ParthGodse/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/ParthGodse/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
@@ -271,6 +273,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ParthGodse/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
