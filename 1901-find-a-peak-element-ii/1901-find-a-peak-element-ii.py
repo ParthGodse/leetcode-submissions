@@ -3,25 +3,28 @@ class Solution:
         n = len(mat)
         m = len(mat[0])
 
-        def max_row_in_col(mat, n, m, colnumber):
+        # def max_row_in_col(mat, n, m, colnumber):
 
-            best_row = 1
-            best_val = mat[1][colnumber]
+        #     best_row = 1
+        #     best_val = -1
 
-            for row in range(n):  # interior rows
-                if mat[row][colnumber] > best_val:
-                    best_val = mat[row][colnumber]
-                    best_row = row
+        #     for row in range(n):  # interior rows
+        #         if mat[row][colnumber] > best_val:
+        #             best_val = mat[row][colnumber]
+        #             best_row = row
 
-            return best_row
+        #     return best_row
 
         def core(mat, n, m):
             low = 0
             high = m - 1
-
+            row = 0
             while low <= high:
                 mid = (low + high) // 2
-                row = max_row_in_col(mat, n, m, mid)
+                # row = max_row_in_col(mat, n, m, mid)
+                for i in range(n):
+                    if mat[i][mid] > mat[row][mid]:
+                        row = i
 
                 left = mat[row][mid - 1] if mid - 1 >= 0 else -1
                 right = mat[row][mid + 1] if mid + 1 < m else -1
