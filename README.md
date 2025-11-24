@@ -40,6 +40,7 @@
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ParthGodse/leetcode-submissions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ParthGodse/leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
@@ -217,6 +219,7 @@
 | [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
+| [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Randomized
 |  |
 | ------- |
