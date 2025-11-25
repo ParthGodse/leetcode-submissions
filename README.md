@@ -173,6 +173,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ParthGodse/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ParthGodse/leetcode-submissions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
@@ -287,12 +288,14 @@
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ParthGodse/leetcode-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -316,6 +319,7 @@
 | [0125-valid-palindrome](https://github.com/ParthGodse/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ParthGodse/leetcode-submissions/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
@@ -365,4 +369,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
