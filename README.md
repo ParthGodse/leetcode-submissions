@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ParthGodse/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ParthGodse/leetcode-submissions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/ParthGodse/leetcode-submissions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthGodse/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ParthGodse/leetcode-submissions/tree/master/0139-word-break) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ParthGodse/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
