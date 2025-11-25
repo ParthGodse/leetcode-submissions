@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ParthGodse/leetcode-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthGodse/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthGodse/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -292,6 +293,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ParthGodse/leetcode-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
