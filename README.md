@@ -29,6 +29,7 @@
 | [0198-house-robber](https://github.com/ParthGodse/leetcode-submissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/ParthGodse/leetcode-submissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ParthGodse/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ParthGodse/leetcode-submissions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -61,6 +62,7 @@
 | [0140-word-break-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ParthGodse/leetcode-submissions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ParthGodse/leetcode-submissions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -234,6 +236,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/ParthGodse/leetcode-submissions/tree/master/0221-maximal-square) |
 | [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Randomized
