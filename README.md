@@ -66,6 +66,7 @@
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [1143-longest-common-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
