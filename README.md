@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParthGodse/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ParthGodse/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0064-minimum-path-sum) |
@@ -115,6 +116,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParthGodse/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ParthGodse/leetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ParthGodse/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ParthGodse/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -315,6 +317,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParthGodse/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
