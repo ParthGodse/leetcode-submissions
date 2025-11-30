@@ -43,6 +43,7 @@
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ParthGodse/leetcode-submissions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -80,6 +81,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthGodse/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
@@ -170,6 +172,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ParthGodse/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +242,7 @@
 | [0212-word-search-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ParthGodse/leetcode-submissions/tree/master/0221-maximal-square) |
 | [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Randomized
 |  |
@@ -313,6 +318,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ParthGodse/leetcode-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/ParthGodse/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -362,6 +368,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 ## Doubly-Linked List
 |  |
 | ------- |
