@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthGodse/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ParthGodse/leetcode-submissions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ParthGodse/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -253,6 +254,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ParthGodse/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ParthGodse/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ParthGodse/leetcode-submissions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ParthGodse/leetcode-submissions/tree/master/0394-decode-string) |
@@ -349,6 +351,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ParthGodse/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ParthGodse/leetcode-submissions/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Counting Sort
 |  |
