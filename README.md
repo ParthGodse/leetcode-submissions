@@ -44,6 +44,7 @@
 | [0729-my-calendar-i](https://github.com/ParthGodse/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/0731-my-calendar-ii) |
 | [0778-swim-in-rising-water](https://github.com/ParthGodse/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ParthGodse/leetcode-submissions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1901-find-a-peak-element-ii](https://github.com/ParthGodse/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -68,6 +69,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ParthGodse/leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ParthGodse/leetcode-submissions/tree/master/0494-target-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ParthGodse/leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/ParthGodse/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
@@ -300,6 +302,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ParthGodse/leetcode-submissions/tree/master/0148-sort-list) |
 | [0427-construct-quad-tree](https://github.com/ParthGodse/leetcode-submissions/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -396,4 +399,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ParthGodse/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthGodse/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
